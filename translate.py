@@ -3,7 +3,7 @@ import PyPDF2
 import re
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 
