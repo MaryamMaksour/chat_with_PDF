@@ -10,7 +10,7 @@ from PyPDF2 import PdfReader
 
 #  temperature=0 This means that the language model will be less likely to generate creative or unexpected text
 
-llm = OpenAI(temperature=0, openai_api_key = "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")
+llm = OpenAI(temperature=0, openai_api_key = "")
 
 def summary(essay):
 
